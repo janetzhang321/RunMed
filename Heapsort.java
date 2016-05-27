@@ -7,7 +7,7 @@
 
 import java.util.ArrayList;
 
-public class HeapSort{
+public class Heapsort{
 
     public static void main(String args[]) {
 
